@@ -7,7 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-map&langs_count=3&hide_title=true&hide_border=true" />
 </a>
 
-Hello, world
+My fun info page 😄
+  I'm currently learning...Graphics!
 
 <!--
 **charlie-map/charlie-map** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
