@@ -1,4 +1,13 @@
-### Hi there 👋
+### Charlie's Profile page
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie-map&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-map&langs_count=3&hide_title=true&hide_border=true" />
+</a>
+
+Hello, world
 
 <!--
 **charlie-map/charlie-map** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
