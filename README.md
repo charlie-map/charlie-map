@@ -1,13 +1,10 @@
-### Charlie's Profile page
+<h1>Hi there, I'm Charlie <img width="70" align="center" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif"/></h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie-map&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=dark" />
-</a>
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-map&langs_count=3&hide_title=true&hide_border=true&theme=dark" />
 </a>
 
-<!--
 **charlie-map/charlie-map** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
