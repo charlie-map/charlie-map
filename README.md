@@ -1,8 +1,7 @@
 <h1>Hi there, I'm Charlie <img width="70" align="center" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif"/></h1>
-<h3>Lots of neat projects from the past couple years. You can reach me on my <a href="https://charlie.city">website</a> with any questions or comments</h3>
 
-<h3>Meanwhile checking my <a href="https://github.com/charlie-map/linkedlistC">linked list</a>:</h3>
-<img src="https://giffiles.alphacoders.com/214/21400.gif"/>
+<h4>I am a professional Software Engineer that has a sweet spot for C projects</h4>
+<h4>Feel free to poke around my GitHub, particularly the pinned projects. If you have any questions, you can reach me on my <a href="https://charlie.city">website</a></h4>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
